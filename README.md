@@ -3,6 +3,7 @@ This package contains data about Parch and Posey, a fictional paper-selling comp
 
 # To install the package
 devtools::install_github("jdbarillas/parchposey")
+
 This package provides the following data tables.
 
 accounts: all accounts from Parch and Posey
